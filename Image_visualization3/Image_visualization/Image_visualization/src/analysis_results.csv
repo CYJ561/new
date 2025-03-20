@@ -1,0 +1,15 @@
+数据路径,特征提取方法,UMAP近邻数,UMAP最小距离,聚类数量,缩略图边长,轮廓系数,Calinski-Harabasz指数,Davies-Bouldin指数,Hubert指数,总可见性成本Cv
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.41957927,1331.1865,0.7542861669869017,1.0000022712514316,0.908705014880624
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,5,50,0.132707,7.6759944,0.6357314492233701,1.0055790657581478,0.14309014222050825
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,5,308,0.17199768,7.906368,0.9325647043446071,1.0057718720941662,0.02164343154613783
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,5,1775,0.19838624,7.1533117,0.7018094444652273,1.0074396736345794,0.0100185005
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.51,5,1775,0.17685604,7.68058,0.7635139605096968,1.005973407028007,0.013448418
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.03292812,5.829359,0.535033381533901,1.0104394427470271,0.13816592805066685
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.039697923,6.872564,0.5664298833770857,1.01220807837485,0.14187534789662615
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.44781354,1236.3148,0.7306844636191584,1.0000025567914552,0.9114058133807301
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.40294448,977.6705,0.7746146457201715,1.0000028512933974,0.9112735423615517
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.44619837,1318.6704,0.7244017961824876,1.000002477105082,0.9126769160466988
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB 颜色直方图,15,0.1,8,50,0.37644354,494.33472,0.8007479862243794
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.42427015,1445.8654,0.7388536389497471,1.0000023656705919,0.9115149768669674
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.42427778,1107.7434,0.7281189686885774,1.0000025768144556,0.9114342352595952
+D:/Image_visualization3/Image_visualization/Image_visualization/Source/,LAB颜色直方图,15,0.1,8,50,0.4306413,1240.6506,0.7618070859189554,1.0000026930104498,0.9102945114394704
